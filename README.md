@@ -1,3 +1,5 @@
+# Not downloading this on to my blackberry
+
 This github is a mixture of:
 - an archive of all tweets and writings that i've collected
 - code i've used to archive their feediverse tweets
